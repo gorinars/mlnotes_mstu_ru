@@ -21,13 +21,13 @@
 Для запуска 2го практического занятия потребуется ipython notebook и scikit-learn.
 
 Подробнее об установке и запуске читать [тут](http://ipython.org/ipython-doc/dev/install/install.html)
-и [тут](http://scikit-learn.org/stable/install.html)./ц
+и [тут](http://scikit-learn.org/stable/install.html).
 
 Слайды к 4му занятию содержат дополнительный аудио-видео кликабельный материал. Для работы распакуйте архив audio.zip
 
-TODO: добавить tex исходники
+TODO: добавить tex исходники.
 
-TODO: лабораторная работа (управление роботом в ROS)
+TODO: лабораторная работа (управление роботом в ROS).
 
 
 
